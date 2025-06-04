@@ -96,39 +96,39 @@ export default function Home() {
           <ul className="list-disc pl-6 mb-4 space-y-2">
             <li>
               <a href="https://www.nextinsurance.com/blog/how-much-work-can-you-do-without-a-contractor-license/" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
-                Next Insurance - "How Much Work Can You Do Without a Contractor License?"
+                Next Insurance - &quot;How Much Work Can You Do Without a Contractor License?&quot;
               </a>
-              <span className="block text-sm text-gray-600">Explains that in many U.S. states, handyman work under $1,000 (labor and materials) is often exempt from contractor licensing if it's minor or casual, like small repairs or painting. It notes exceptions (e.g., no electrical, plumbing, or structural work) to help you avoid state penalties. Check your state's contractor board for exact limits and rules.</span>
+              <span className="block text-sm text-gray-600">Explains that in many U.S. states, handyman work under $1,000 (labor and materials) is often exempt from contractor licensing if it&apos;s minor or casual, like small repairs or painting. It notes exceptions (e.g., no electrical, plumbing, or structural work) to help you avoid state penalties. Check your state&apos;s contractor board for exact limits and rules.</span>
             </li>
             <li>
               <a href="https://www.handymanstartup.com/handyman-license/" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
-                Handyman Startup - "Handyman Licenses and Laws - How To Avoid Getting Stung"
+                Handyman Startup - &quot;Handyman Licenses and Laws - How To Avoid Getting Stung&quot;
               </a>
-              <span className="block text-sm text-gray-600">Highlights that most states don't require a handyman license for minor home repairs or maintenance under $1,000, such as fixing fences or basic cleaning. It emphasizes understanding local laws to stay compliant and avoid fines or legal issues from state authorities.</span>
+              <span className="block text-sm text-gray-600">Highlights that most states don&apos;t require a handyman license for minor home repairs or maintenance under $1,000, such as fixing fences or basic cleaning. It emphasizes understanding local laws to stay compliant and avoid fines or legal issues from state authorities.</span>
             </li>
             <li>
               <a href="https://www.getjobber.com/handyman/handyman-licensing-requirements/" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
-                GetJobber - "Handyman Licensing Requirements in the U.S. and Canada"
+                GetJobber - &quot;Handyman Licensing Requirements in the U.S. and Canada&quot;
               </a>
-              <span className="block text-sm text-gray-600">Published August 30, 2024, this outlines states like Arizona, where jobs under $1,000 don't need a contractor license, covering tasks like minor carpentry or painting. It advises checking local regulations to protect against state enforcement, as permits or safety rules might still apply.</span>
+              <span className="block text-sm text-gray-600">Published August 30, 2024, this outlines states like Arizona, where jobs under $1,000 don&apos;t need a contractor license, covering tasks like minor carpentry or painting. It advises checking local regulations to protect against state enforcement, as permits or safety rules might still apply.</span>
             </li>
             <li>
               <a href="https://www.contractorslicensingschools.com/new-2025-rules-do-you-need-a-license-for-small-jobs-in-california/" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
-                Contractors Licensing Schools - "New 2025 Rules: Do You Need a License for Small Jobs in California?"
+                Contractors Licensing Schools - &quot;New 2025 Rules: Do You Need a License for Small Jobs in California?&quot;
               </a>
-              <span className="block text-sm text-gray-600">Published April 16, 2025, this notes California's threshold for unlicensed work rose to $1,000 starting January 1, 2025, per AB 2622. It covers minor tasks like fence repair or small painting jobs, helping you stay safe from state repercussions if you keep projects simple and within limits.</span>
+              <span className="block text-sm text-gray-600">Published April 16, 2025, this notes California&apos;s threshold for unlicensed work rose to $1,000 starting January 1, 2025, per AB 2622. It covers minor tasks like fence repair or small painting jobs, helping you stay safe from state repercussions if you keep projects simple and within limits.</span>
             </li>
             <li>
               <a href="https://www.ziprecruiter.com/Jobs/No-License-Required" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
-                ZipRecruiter - "No License Required Jobs"
+                ZipRecruiter - &quot;No License Required Jobs&quot;
               </a>
-              <span className="block text-sm text-gray-600">Lists over 512,301 jobs (e.g., house cleaning, lawn care, mobile car detailing) that typically don't require licenses and often fall under $1,000 per job. These roles face minimal state oversight if no permits or specialized skills are needed—verify local rules to protect yourself.</span>
+              <span className="block text-sm text-gray-600">Lists over 512,301 jobs (e.g., house cleaning, lawn care, mobile car detailing) that typically don&apos;t require licenses and often fall under $1,000 per job. These roles face minimal state oversight if no permits or specialized skills are needed—verify local rules to protect yourself.</span>
             </li>
           </ul>
           <div className="text-sm text-gray-700 space-y-2">
-            <p>An X post from May 30, 2025, by @bsomebodyK suggests cottage food operations, where you can make shelf-stable foods (e.g., jams, baked goods) from home for under $1,000 in startup costs, often with little to no licensing. Check your state's cottage food laws to avoid issues.</p>
+            <p>An X post from May 30, 2025, by @bsomebodyK suggests cottage food operations, where you can make shelf-stable foods (e.g., jams, baked goods) from home for under $1,000 in startup costs, often with little to no licensing. Check your state&apos;s cottage food laws to avoid issues.</p>
             <p>Tasks like gutter cleaning, window washing, or junk removal (noted in an X post by @mhp_guy, October 22, 2024) are low-cost and typically unlicensed, but states may intervene if you advertise as a contractor, exceed cost limits, or touch regulated systems (e.g., electrical).</p>
-            <p className="font-semibold">Protection Tips: Keep jobs under $1,000 (labor and materials), avoid work requiring permits (e.g., plumbing, electrical), document all transactions, and consult your state's contractor board or labor department for exemptions. Non-compliance risks fines, stop-work orders, or legal action.</p>
+            <p className="font-semibold">Protection Tips: Keep jobs under $1,000 (labor and materials), avoid work requiring permits (e.g., plumbing, electrical), document all transactions, and consult your state&apos;s contractor board or labor department for exemptions. Non-compliance risks fines, stop-work orders, or legal action.</p>
           </div>
         </div>
       </section>
